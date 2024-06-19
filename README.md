@@ -26,7 +26,7 @@ Este foi o "Explorando a Engenharia de Dados". Eu sou Diana. Fique ligado para m
 
 ## Como Ouvir
 
-Para escutar o episódio, acesse a pasta `Audio` deste repositório.
+Para escutar o episódio, acesse os arquivos part1, part2, part3, part4 e part5 em sequência.
 
 ## Como Contribuir
 
